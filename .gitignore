@@ -1,0 +1,8 @@
+.env
+app23.py
+pipelin23.py
+__pycache__/
+venv/
+*.pyc
+*.pyo
+*.pyd
